@@ -1,2 +1,2 @@
-# DiscordThemes
-Collection of Discord Themes, maybe or maybe not all OC :)
+# DiscordStuff
+Stuff I found/made for Discord, maybe or maybe not OC
