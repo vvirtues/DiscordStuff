@@ -1,0 +1,12 @@
+[aria-label="Members"].content-2a4AW9 > div[aria-hidden="true"]::before {
+  background-color: transparent;
+  content: "\ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \  \ \_\_\_\_()()\a\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ /\ \ \ \ \ \ @@\a\ \ \ `~~~~~\\_;m_\_m.\_>o" attr(title) !important;
+  white-space: pre-wrap;
+  color: white !important;
+  padding-bottom: 10px;
+}
+[aria-label="Members"].content-2a4AW9 > div[aria-hidden="true"] {
+  height: 30px !important;
+  padding-bottom: 3px;
+  /*margin-top: -10px;*/
+}
